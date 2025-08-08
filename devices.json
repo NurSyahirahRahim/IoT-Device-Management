@@ -1,0 +1,86 @@
+[
+  {
+    "DeviceID": 2,
+    "DeviceName": "Living Room Camera",
+    "DeviceType": "Security Camera",
+    "Status": "Online",
+    "LastActive": "2025-08-07T22:59:23.2108514+08:00"
+  },
+  {
+    "DeviceID": 3,
+    "DeviceName": "Thermostat",
+    "DeviceType": "Temperature Sensor",
+    "Status": "Offline",
+    "LastActive": "2025-08-07T23:03:23.2562146+08:00"
+  },
+  {
+    "DeviceID": 6,
+    "DeviceName": "Kitchen Plug 1",
+    "DeviceType": "Smart Plug",
+    "Status": "Online",
+    "LastActive": "2025-08-07T22:42:14.0530687+08:00"
+  },
+  {
+    "DeviceID": 7,
+    "DeviceName": "Doorbell Camera 1",
+    "DeviceType": "Security Camera",
+    "Status": "Offline",
+    "LastActive": "2025-08-07T16:31:46.6543591+08:00"
+  },
+  {
+    "DeviceID": 8,
+    "DeviceName": "Home Voice Controller",
+    "DeviceType": "Smart Voice",
+    "Status": "Offline",
+    "LastActive": "2025-08-07T22:53:23.1395671+08:00"
+  },
+  {
+    "DeviceID": 10,
+    "DeviceName": "Door Lock",
+    "DeviceType": "Smart Lock",
+    "Status": "Online",
+    "LastActive": "2025-08-07T12:31:34.6968828+08:00"
+  },
+  {
+    "DeviceID": 11,
+    "DeviceName": "Kitchen Lamp",
+    "DeviceType": "Motion Sensor",
+    "Status": "Online",
+    "LastActive": "2025-08-07T23:05:23.265361+08:00"
+  },
+  {
+    "DeviceID": 12,
+    "DeviceName": "Living Hall Light 1",
+    "DeviceType": "Smart Light",
+    "Status": "Offline",
+    "LastActive": "2025-08-07T16:27:46.4901279+08:00"
+  },
+  {
+    "DeviceID": 13,
+    "DeviceName": "Kitchen Camera 1",
+    "DeviceType": "Security Camera",
+    "Status": "Online",
+    "LastActive": "2025-08-07T10:25:21.2894936+08:00"
+  },
+  {
+    "DeviceID": 14,
+    "DeviceName": "Garage sensor",
+    "DeviceType": "Motion Sensor",
+    "Status": "Online",
+    "LastActive": "2025-08-07T22:57:23.1698982+08:00"
+  },
+  {
+    "DeviceID": 15,
+    "DeviceName": "Outdoor Lamp",
+    "DeviceType": "Motion Sensor",
+    "Status": "Offline",
+    "LastActive": "2025-08-07T23:05:23.2657379+08:00"
+  },
+  {
+    "DeviceID": 16,
+    "DeviceName": "Bedroom Light 1",
+    "DeviceType": "Smart Light",
+    "Status": "Online",
+    "LastActive": "2025-08-07T22:53:23.1386265+08:00"
+  }
+]
